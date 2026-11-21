@@ -1,0 +1,12 @@
+# Compiled COBOL & Fortran binaries
+elo_engine
+colley_solver
+
+# Intermediate flat-file IPC & mainframe report
+*.dat
+rankings_report.txt
+
+# Environment & macOS files
+.env
+__pycache__/
+.DS_Store
